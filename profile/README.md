@@ -1,5 +1,6 @@
 ## Hi there 👋
-# This is Deep Layer AI (DL AI) Laboratory 
+# This is Deep Layer
+### An AI reasearch laboratory 
 Members
 - Nick Nazari
 - Kenny Han
