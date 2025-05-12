@@ -1,6 +1,6 @@
 ## Hi there 👋
 # This is Deep Layer AI Labs
-Memebers
+Members
 - Nick Nazari
 - Kenny Han
 
