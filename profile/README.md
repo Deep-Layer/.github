@@ -1,7 +1,7 @@
 ## Hi there 👋
 # This is Onto
 ### An AI reasearch laboratory 
-Core Members
+Members
 - Nick Nazari
 - Kenny Han
 
