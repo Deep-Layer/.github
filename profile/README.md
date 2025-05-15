@@ -1,10 +1,12 @@
 ## Hi there 👋
 # This is Onto
 ### An AI reasearch laboratory 
-Members
+Core Members
 - Nick Nazari
 - Kenny Han
 
+Research Intern 
+- Dan Luo
 <!--
 
 **Here are some ideas to get you started:**
