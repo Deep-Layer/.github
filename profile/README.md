@@ -4,9 +4,7 @@
 Members
 - Nick Nazari
 - Kenny Han
-
-  Research Intern 
-  - Dan Luo
+- Dan Luo
 <!--
 
 **Here are some ideas to get you started:**
